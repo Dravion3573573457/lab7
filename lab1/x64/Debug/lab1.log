@@ -1,0 +1,8 @@
+﻿  lab1.cpp
+C:\Users\Rayphias\Desktop\lab6-main\lab1\Mesh.h(56,50): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  (компиляция исходного файла "lab1.cpp")
+  
+  lab1.vcxproj -> C:\Users\Rayphias\Desktop\lab6-main\x64\Debug\lab1.exe
+  C:\Users\Rayphias\Desktop\lab6-main\lab1\models\lab3BOB.mtl
+  C:\Users\Rayphias\Desktop\lab6-main\lab1\models\lab3BOB.obj
+  Скопировано файлов: 2.
